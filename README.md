@@ -1,6 +1,6 @@
 # About-Me
 
-# Hi, I'm Anshul!
+## Hi, I'm Anshul!
 
 This is my first GitHub repository — instead of a project, this space is just a quick intro to who I am and what I'm about. 
 
@@ -14,7 +14,7 @@ This is my first GitHub repository — instead of a project, this space is just 
 
 <hr>
 
-## What You’ll Find Here
+### What You’ll Find Here
 
 This repo might contain:
 
@@ -25,7 +25,7 @@ This repo might contain:
 
 <hr>
 
-## Connect With Me
+### Connect With Me
 
 - <b>GitHub:</b> https://github.com/git-anshy
 - <b>LinkedIn:</b> www.linkedin.com/in/anshul-sharan-srivastava-300054280
